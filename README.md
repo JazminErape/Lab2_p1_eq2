@@ -1,1 +1,3 @@
-# Lab4_eq2
+En este repositorio se realiza un algoritmo de trading en FOREX utilizando análisis fundamental para la clase de Microestructuras y Sistemas de Trading. Esto con la finalidad de ver el impacto de las suposiciones de los participantes sobre las noticias (lo que se conoce como sentimiento del mercado). Si una vez hecho el anuncio la noticia es similar a lo esperado en el mercado, se dice que “está descontada" y no tiene un gran impacto en los precios. Por otro lado, si el anuncio es distinto al sentimiento del mercado, se pueden dar movimientos considerables en los precios de las divisas.
+
+El notebook final es el de la última versión.
